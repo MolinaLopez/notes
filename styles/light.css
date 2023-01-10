@@ -1,0 +1,32 @@
+/* Track */
+::-webkit-scrollbar-track {
+  background: #d0d1cd;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #8198b6;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #778da9;
+}
+
+body,
+textarea {
+  background-color: #e0e1dd;
+}
+
+header {
+  background-color: #778da9;
+}
+
+h1,
+#icon {
+  color: #e0e1dd;
+}
+
+textarea {
+  color: #415a77;
+}
